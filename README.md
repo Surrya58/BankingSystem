@@ -5,6 +5,8 @@ This repository has :
 1. dbms folder - It includes the main project made on Eclipse and MySQL
 2. database folder- It contains a sample database .
 3. Screenshots of project folder - It includes some screenshots of the working of the application.
+4. Screenshots are very useful
+5. finally 4th pull request is done. Hactoberfest is done. Get back to coding.
 
 This project deals with :
 
