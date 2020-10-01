@@ -12,3 +12,4 @@ This project deals with :
 2. Updating and accessing user data.
 3. Client can login and access his/her details and can do transactions.
 4. Transfer , withdraw and deposit - These functions are well included in this project.
+5. This one is a nice project,do give it a try
